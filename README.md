@@ -1,1 +1,1 @@
-# metotlar
+# metodlar
